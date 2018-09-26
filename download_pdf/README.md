@@ -1,4 +1,4 @@
-PDFファイルをダウンロード。HCIでしぼるため "grep HCI"
+PDFファイルをダウンロード。
 
 ```
 $ git clone https://github.com/gowatana/vmworld2018-session-urls.git
